@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Jun 12 12:21:13 WAT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-015c-9c09-4647-000002905d98 
+on database directory C:\Users\Al-Imam Rajab\Documents\NetBeansProjects\LibraryAssistant\database  with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/Al-Imam%20Rajab/Documents/NetBeansProjects/LibraryAssistant/dist/run114239561/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Users\Al-Imam Rajab\Documents\NetBeansProjects\LibraryAssistant
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
